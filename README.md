@@ -1,5 +1,5 @@
 # NTR 306 (Fundamentals of Nutrition)
-**Summer 2024 (9-week term), Dr. Cooper, The University of Texas at Austin**
+**Summer 2024 (9-week term), Dr. Hockett Cooper, The University of Texas at Austin**
 
 Essential food components and their functions in life processes. Three lecture hours a week for one semester. Only one of the following may be counted: Nutrition 306, 312, 312H. Nutrition 306 may not be counted toward a nutritional sciences degree.
 
@@ -18,7 +18,8 @@ Essential food components and their functions in life processes. Three lecture h
 │   └── DEBATE Supplements.pptx
 ├── Debate #3
 │   └── DEBATE GMOs.pptx
-├── Exams Prep
+├── Exam Prep
+│   ├── Study Guide for Final.pdf
 │   └── Study Guide for Midterm 2024-07-01 01_35_31.pdf
 ├── How to access MindTap using LTA.pdf
 ├── Infographic Project
@@ -70,10 +71,12 @@ Essential food components and their functions in life processes. Three lecture h
 │   ├── 15 - 16 Life Cycle Nutrition _ Pregnancy thru Adolescence.pdf
 │   └── 17 - Life Cycle Nutrition - Adulthood and Later Years.pdf
 ├── Module 8
+│   ├── 19 - Consumer Concerns.pdf
+│   └── 20 - Hunger and the Global Environment.pdf
 ├── NTR 306 - Summer '24 Syllabus.docx
 └── README.md
 
-15 directories, 51 files
+15 directories, 54 files
 ```
 
 (C) 2024 Abdon Morales
