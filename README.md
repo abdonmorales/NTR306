@@ -80,4 +80,5 @@ Essential food components and their functions in life processes. Three lecture h
 ```
 
 (C) 2024 Abdon Morales
+
 (C) 2014 - 2023 The University of Texas at Austin, College of Natural Science - Dept of Nutritional Science.
